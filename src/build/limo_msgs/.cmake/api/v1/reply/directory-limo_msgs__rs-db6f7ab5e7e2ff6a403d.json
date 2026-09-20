@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "limo_msgs__rs",
+		"source" : "/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/build/limo_msgs/limo_msgs__rs"
+	}
+}

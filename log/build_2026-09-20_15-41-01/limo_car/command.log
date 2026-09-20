@@ -1,0 +1,4 @@
+Invoking command in '/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car -- -j24 -l24
+Invoked command in '/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car -- -j24 -l24
+Invoking command in '/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car
+Invoked command in '/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_car

@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a33c596d8c1ed6a4a656.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "limo_msgs__py",
+					"jsonFile" : "directory-limo_msgs__py-88b0712972b5e88bf83a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/build/limo_msgs/limo_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "limo_msgs__rs",
+					"jsonFile" : "directory-limo_msgs__rs-db6f7ab5e7e2ff6a403d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/build/limo_msgs/limo_msgs__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "limo_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_limo_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_limo_msgs_egg-b2aecfbe8aef11f9a988.json",
+					"name" : "ament_cmake_python_build_limo_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_limo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_limo_msgs-d7359c126079ee9f73cb.json",
+					"name" : "ament_cmake_python_symlink_limo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs-ac5b7393d3a27a2ff716.json",
+					"name" : "limo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__cpp-c984ef7077a3b3f63493.json",
+					"name" : "limo_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "limo_msgs__py::@10cfd3b820971b0ce36e",
+					"jsonFile" : "target-limo_msgs__py-7adb53096835be6eae1a.json",
+					"name" : "limo_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_generator_c-891cb4af6745f33f43e7.json",
+					"name" : "limo_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_generator_py-fcc7538785c2c753350b.json",
+					"name" : "limo_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_c-61fe0ca7644c4857ce48.json",
+					"name" : "limo_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_c__pyext-eaf4aa685e6bc6a6ac1e.json",
+					"name" : "limo_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_cpp-f082482cf689f871de7a.json",
+					"name" : "limo_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_fastrtps_c-013937292a6baa9514ef.json",
+					"name" : "limo_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_fastrtps_c__pyext-35db83c8a50558b5fe2b.json",
+					"name" : "limo_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_fastrtps_cpp-6e63c4b33716e1259ed9.json",
+					"name" : "limo_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_introspection_c-4d646c83a04de30a28d2.json",
+					"name" : "limo_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_introspection_c__pyext-7ada6c064496a8c6034d.json",
+					"name" : "limo_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs__rosidl_typesupport_introspection_cpp-496861b2cd129157db14.json",
+					"name" : "limo_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "limo_msgs__rs::@43c68d52085fb573ab06",
+					"jsonFile" : "target-limo_msgs__rs-eb0f7ce028620167f78a.json",
+					"name" : "limo_msgs__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "limo_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-limo_msgs_uninstall-97409338dc5c8f3b305f.json",
+					"name" : "limo_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-2638b11e2e6627930675.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/build/limo_msgs",
+		"source" : "/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/limo_ros2/limo_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
