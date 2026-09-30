@@ -1,1 +1,0 @@
-/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/src/limo_ros2/limo_car/launch/ackermann_gazebo.launch.py

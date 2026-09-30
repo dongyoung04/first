@@ -1,1 +1,0 @@
-/home/dong/Documents/LIMO_GAZEBO/ws_limo_humble/build/limo_msgs/rosidl_generator_c/limo_msgs/msg/limo_status.h
